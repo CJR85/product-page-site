@@ -13,3 +13,24 @@
   background: #1e2227;
   color: #fff;
 }
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 8%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.logo {
+  width: 120px;
+  cursor: pointer;
+}
+
+.nav-icons i {
+  width: 25px;
+  margin-left: 30px;
+  cursor: pointer;
+}
