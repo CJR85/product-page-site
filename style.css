@@ -83,3 +83,12 @@ button {
   margin-top: 20px;
   cursor: pointer;
 }
+
+.feature-img {
+  width: 100%;
+  text-align: center;
+}
+
+.feature-img img {
+  width: 80%;
+}
